@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Euaell
-- 👀 I’m interested in Hardware and s systems.
-- 🌱 I’m currently learning Unity game dev.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on any exciting projects.
 - 📫 How to reach me email: euaelmeko@gmail.com
 
